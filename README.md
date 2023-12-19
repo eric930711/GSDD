@@ -85,6 +85,6 @@ task. Unlike previous coreset selection methods which select a few typical examp
 <details>
   <summary>Acknowledgement</summary></br>
   
-**This work received strong support from SSL and Tom. We would like to thank them!**:handshake::handshake::handshake:
+**This work received strong support from SSL and Tom. We would like to thank them!** :handshake::handshake::handshake:
   
 </details>
