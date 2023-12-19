@@ -2,7 +2,7 @@
 
 :computer: This is the official version of the implementation of the paper GSDD accepted at the 38th Annual AAAI Conference on Artificial Intelligence.
 
-![First page](https://github.com/eric930711/GSDD/blob/main/Figure/R1.png)
+![First page](https://github.com/eric930711/GSDD/blob/main/Figure/Fig-1.pdf)
 
 # Table of Contents
 
