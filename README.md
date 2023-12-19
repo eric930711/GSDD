@@ -36,10 +36,10 @@ task. Unlike previous coreset selection methods which select a few typical examp
     <summary>Quantitative Comparison</summary>
     
   <img src=https://github.com/eric930711/GSDD/blob/main/Figure/R8.png width=80% />
-<figure class="half">
+  <figure class="half">
   <img src=https://github.com/eric930711/GSDD/blob/main/Figure/R9.png width=40% />
   <img src=https://github.com/eric930711/GSDD/blob/main/Figure/R10.png width=40% />
-</figure>
+  </figure>
     
   </details>
   <details>
@@ -56,14 +56,24 @@ task. Unlike previous coreset selection methods which select a few typical examp
   <img src=https://github.com/eric930711/GSDD/blob/main/Figure/R5.png width=80% />
     
   </details>
-</details>
-
-<details>
+  <details>
   <summary>Ablation Study</summary>
   
 <figure class="half">
   <img src=https://github.com/eric930711/GSDD/blob/main/Figure/R6.png width=40% />
   <img src=https://github.com/eric930711/GSDD/blob/main/Figure/R7.png width=40% />
 </figure>
+</details>
 
 </details>
+
+<details>
+  <summary>Conclusion</summary>
+  
+ > **This paper focuses on exploring the possibility of applying DD to benefit low-level CV tasks (especially for SISR). Overall, we propose a GSDD framework that optimizes and synthesizes training samples by the GAN-inversion manipulation in a latent generative space. Our optimization process is based on a distribution- matching data condensation strategy, so that the SISR network can have comparable performance to models trained on the original dataset. We further improve the approach by proposing a distillation loss with the regularization term R. Finally, we demonstrate its effectiveness via extensive experiments. We achieve a competitive performance compared to SOTA SISR solutions under the premise of a nearly ×8 increase in training efficiency and a saving of almost 93.2% data storage space. We wish that the study opens a new perspective in SR research and expect to see it facilitates more practical applications in the future.**
+</details>
+ 
+</details>
+
+
+
