@@ -5,4 +5,4 @@ Northwestern Polytechnical University (NPU)
 
 Table of Contents
 
-![图片](http://baidu.com/hellotest.png)
+![The framework of the proposed GSDD mdoel.](https://github.com/eric930711/GSDD/blob/main/Figure/Framework.png)
