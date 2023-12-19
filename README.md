@@ -19,33 +19,45 @@ task. Unlike previous coreset selection methods which select a few typical examp
 
 <details>
   <summary>Method</summary>
+  
   ![GSDD](https://github.com/eric930711/GSDD/blob/main/Figure/Framework.png)
+
 </details>
 
 <details>
   <summary>Experiment</summary>
-  Our experimental dataset include [OST](https://github.com/xinntao/SFTGAN?tab=readme-ov-file#ost-dataset) and [DPED](https://people.ee.ethz.ch/~ihnatova/).
+
+  Our experimental datasets include [OST](https://github.com/xinntao/SFTGAN?tab=readme-ov-file#ost-dataset) and [DPED](https://people.ee.ethz.ch/~ihnatova/).
+  
   <details>
     <summary>Quantitative Comparison</summary>
-    <img src=https://github.com/eric930711/GSDD/blob/main/Figure/R2.png width=70% />
-    <img src=https://github.com/eric930711/GSDD/blob/main/Figure/R3.png width=70% />
+    
+  <img src=https://github.com/eric930711/GSDD/blob/main/Figure/R2.png width=70% />
+  <img src=https://github.com/eric930711/GSDD/blob/main/Figure/R3.png width=70% />
+    
   </details>
   <details>
     <summary>Qualitative Presentation</summary>
-    <img src=https://github.com/eric930711/GSDD/blob/main/Figure/R2.png width=70% />
-    <img src=https://github.com/eric930711/GSDD/blob/main/Figure/R3.png width=70% />
+    
+  <img src=https://github.com/eric930711/GSDD/blob/main/Figure/R2.png width=70% />
+  <img src=https://github.com/eric930711/GSDD/blob/main/Figure/R3.png width=70% />
+    
   </details>
   <details>
-    <summary>Distilled Data Presentation</summary>
-    <img src=https://github.com/eric930711/GSDD/blob/main/Figure/R4.png width=70% />
-    <img src=https://github.com/eric930711/GSDD/blob/main/Figure/R5.png width=70% />
+    <summary>Distilled Samples</summary>
+    
+  <img src=https://github.com/eric930711/GSDD/blob/main/Figure/R4.png width=70% />  
+  <img src=https://github.com/eric930711/GSDD/blob/main/Figure/R5.png width=70% />
+    
   </details>
 </details>
 
 <details>
   <summary>Ablation Study</summary>
+  
 <figure class="half">
-    <img src=https://github.com/eric930711/GSDD/blob/main/Figure/R6.png width=40% />
-    <img src=https://github.com/eric930711/GSDD/blob/main/Figure/R7.png width=40% />
+  <img src=https://github.com/eric930711/GSDD/blob/main/Figure/R6.png width=40% />
+  <img src=https://github.com/eric930711/GSDD/blob/main/Figure/R7.png width=40% />
 </figure>
+
 </details>
