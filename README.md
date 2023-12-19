@@ -24,7 +24,7 @@ task. Unlike previous coreset selection methods which select a few typical examp
 
 <details>
   <summary>Experiment</summary>
-  Our experimental dataset include [OST](#https://github.com/xinntao/SFTGAN?tab=readme-ov-file#ost-dataset) and [DPED](#https://people.ee.ethz.ch/~ihnatova/).
+  Our experimental dataset include [OST](https://github.com/xinntao/SFTGAN?tab=readme-ov-file#ost-dataset) and [DPED](https://people.ee.ethz.ch/~ihnatova/).
   <details>
     <summary>Quantitative Comparison</summary>
     <img src=https://github.com/eric930711/GSDD/blob/main/Figure/R2.png width=70% />
@@ -45,7 +45,7 @@ task. Unlike previous coreset selection methods which select a few typical examp
 <details>
   <summary>Ablation Study</summary>
 <figure class="half">
-    <img src=https://github.com/eric930711/GSDD/blob/main/Figure/R6.png width=50% />
-    <img src=https://github.com/eric930711/GSDD/blob/main/Figure/R7.png width=50% />
+    <img src=https://github.com/eric930711/GSDD/blob/main/Figure/R6.png width=40% />
+    <img src=https://github.com/eric930711/GSDD/blob/main/Figure/R7.png width=40% />
 </figure>
 </details>
