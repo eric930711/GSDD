@@ -47,14 +47,14 @@ task. Unlike previous coreset selection methods which select a few typical examp
     
   <img src=https://github.com/eric930711/GSDD/blob/main/Figure/R2.png width=100% />
   <div align=center>
-  <img src=https://github.com/eric930711/GSDD/blob/main/Figure/R3.png width=80% />
+  <img src=https://github.com/eric930711/GSDD/blob/main/Figure/R3.png width=70% />
   </div>
     
   </details>
   <details>
     <summary>Distilled Samples Showcase</summary>
   <div align=center>  
-  <img src=https://github.com/eric930711/GSDD/blob/main/Figure/R4.png width=80% />
+  <img src=https://github.com/eric930711/GSDD/blob/main/Figure/R4.png width=70% />
   </div>
     
   </details>
@@ -63,7 +63,7 @@ task. Unlike previous coreset selection methods which select a few typical examp
     <summary>Influence of Varying ICP Numbers</summary>
 
   <div align=center>
-  <img src=https://github.com/eric930711/GSDD/blob/main/Figure/R5.png width=80% />
+  <img src=https://github.com/eric930711/GSDD/blob/main/Figure/R5.png width=70% />
   </div>
     
   </details>
