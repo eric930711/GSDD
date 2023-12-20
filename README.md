@@ -19,11 +19,35 @@ conda activate GSDD
 
 pip install -r requirements.txt
 ```
+###  Dependencies
+```
+NVIDIA RTX3090Ti
+Windows 10 or Ubuntu
+CUDA = V11.0
+```
+
 ###  Usage
 
-#### 1.Train
+Pretrained models can be downloaded [here](https://www.google.com/intl/zh-CN/drive/features.html).</br>
+Distilled samples can be downloaded [here](https://www.google.com/intl/zh-CN/drive/features.html).
 
-#### 2.Test
+#### Demo
+```
+python demo_GSDD.py
+```
+
+#### Train
+```
+python train_GSDD.py
+```
+#### Test
+```
+python test_GSDD.py
+```
+Some available options:
+
+- ```--dataset: training and testing dataset```
+- ```--batch_size: batch size```
 
 ### Table of Contents
 
