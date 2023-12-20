@@ -11,6 +11,19 @@
 </div>
 
 ***
+###  Setup Environment
+
+```
+conda create -n GSDD python=3.8
+conda activate GSDD
+
+pip install -r requirements.txt
+```
+###  Usage
+
+#### 1.Train
+
+#### 2.Test
 
 ### Table of Contents
 
