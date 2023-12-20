@@ -87,8 +87,9 @@ task. Unlike previous coreset selection methods which select a few typical examp
  > **This paper focuses on exploring the possibility of applying DD to benefit low-level CV tasks (especially for SISR). Overall, we propose a GSDD framework that optimizes and synthesizes training samples by the GAN-inversion manipulation in a latent generative space. Our optimization process is based on a distribution- matching data condensation strategy, so that the SISR network can have comparable performance to models trained on the original dataset. We further improve the approach by proposing a distillation loss with the regularization term R. Finally, we demonstrate its effectiveness via extensive experiments. We achieve a competitive performance compared to SOTA SISR solutions under the premise of a nearly ×8 increase in training efficiency and a saving of almost 93.2% data storage space. We wish that the study opens a new perspective in SR research and expect to see it facilitates more practical applications in the future.**
 </details>
 
+***
 
-### Acknowledgement
+### :star: Acknowledgement :star:
 
 **This work received strong support from SSL and Tom Cai. We would like to thank them!** :handshake::handshake::handshake:
   
