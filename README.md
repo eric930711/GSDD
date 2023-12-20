@@ -91,5 +91,5 @@ task. Unlike previous coreset selection methods which select a few typical examp
 
 ### :star: Acknowledgement :star:
 
-**This work received strong support from SSL and Tom Cai. We would like to thank them!** :handshake::handshake::handshake:
+**This work received strong support from [SSL](https://github.com/SSL92) and Tom Cai. We would like to thank them!** :handshake::handshake::handshake:
   
