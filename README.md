@@ -1,9 +1,11 @@
 ### :book: **GSDD: Generative Space Dataset Distillation for Image Super-Resolution (AAAI2024)** :tada:
 
-#### :computer: This is the official implementation of GSDD accepted by AAAI-2024.:smile: Thanks for watching! :heart:
+#### :computer: This is the official implementation of GSDD accepted by AAAI-2024.:smile: Thanks for watching! :heart: 
+
+**:page_facing_up: [Paper](https://github.com/eric930711/GSDD) :scroll: [Supp](https://www.google.com/intl/zh-CN/drive/features.html) :chart_with_upwards_trend: [Poster](https://github.com/eric930711/GSDD) :movie_camera: [Video](https://www.youtube.com/@RealAAAI)**
 
 ***
-### $\color{red}{Overview}$
+### Overview
 <div align=center>
 <img src=https://github.com/eric930711/GSDD/blob/main/Figure/R1.png#pic_center width=80% />
 </div>
