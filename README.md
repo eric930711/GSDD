@@ -11,39 +11,29 @@
 </div>
 
 ***
+###  Dependencies
+```
+Windows 10 or Ubuntu 18.04
+NVIDIA RTX 3090Ti (24G)
+CUDA version  V11.1
+torch         1.8.1+cu111
+torchvision   0.9.1+cu111
+```
 ###  Setup Environment
 
 ```
-conda create -n GSDD python=3.8
+conda create -n GSDD python=3.9
 conda activate GSDD
 
 pip install -r requirements.txt
 ```
-###  Dependencies
-```
-NVIDIA RTX3090Ti
-Windows 10 or Ubuntu 18.04
-CUDA = V11.0
-```
-
 ###  Usage
-Pretrained models can be downloaded [here](https://www.google.com/intl/zh-CN/drive/features.html).</br>
-Distilled samples can be downloaded [here](https://www.google.com/intl/zh-CN/drive/features.html).
-#### Demo
+Pretrained models can be downloaded [here]().</br>
+Distilled samples can be downloaded [here]().
+#### Demo \& Train \& Test
 ```
-python demo_GSDD.py
+TO BE CONTINUED
 ```
-#### Train
-```
-python train_GSDD.py
-```
-#### Test
-```
-python test_GSDD.py
-```
-Some available options:
-- ```--dataset: training and testing dataset```
-- ```--batch_size: batch size```
 
 ### Table of Contents
 
