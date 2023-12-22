@@ -5,13 +5,13 @@
 **:page_facing_up: [Paper](https://github.com/eric930711/GSDD) :scroll: [Supp](https://www.google.com/intl/zh-CN/drive/features.html) :chart_with_upwards_trend: [Poster](https://github.com/eric930711/GSDD) :movie_camera: [Video](https://www.youtube.com/@RealAAAI)**
 
 ***
-### Overview
+### :telescope: Overview 
 <div align=center>
 <img src=https://github.com/eric930711/GSDD/blob/main/Figure/R1.png#pic_center width=80% />
 </div>
 
 ***
-###  Dependencies
+### :toolbox: Dependencies 
 ```
 Windows 10 or Ubuntu 18.04
 NVIDIA RTX 3090Ti (24G)
@@ -19,7 +19,7 @@ CUDA version  V11.1
 torch         1.8.1+cu111
 torchvision   0.9.1+cu111
 ```
-###  Setup Environment
+### :hammer_and_wrench: Environment 
 
 ```
 conda create -n GSDD python=3.9
@@ -27,15 +27,15 @@ conda activate GSDD
 
 pip install -r requirements.txt
 ```
-###  Usage
+### :wrench: Usage 
 Pretrained models can be downloaded [here]().</br>
 Distilled samples can be downloaded [here]().
 #### Demo \& Train \& Test
 ```
 TO BE CONTINUED
 ```
-
-### Table of Contents
+***
+### :eyes: Quick View 
 
 <details>
   <summary>Abstract (click me)</summary>
@@ -110,6 +110,12 @@ task. Unlike previous coreset selection methods which select a few typical examp
  > **This paper focuses on exploring the possibility of applying DD to benefit low-level CV tasks (especially for SISR). Overall, we propose a GSDD framework that optimizes and synthesizes training samples by the GAN-inversion manipulation in a latent generative space. Our optimization process is based on a distribution- matching data condensation strategy, so that the SISR network can have comparable performance to models trained on the original dataset. We further improve the approach by proposing a distillation loss with the regularization term R. Finally, we demonstrate its effectiveness via extensive experiments. We achieve a competitive performance compared to SOTA SISR solutions under the premise of a nearly ×8 increase in training efficiency and a saving of almost 93.2% data storage space. We wish that the study opens a new perspective in SR research and expect to see it facilitates more practical applications in the future.**
 </details>
 
+***
+### :book: Citation
+#### BibTeX
+```
+
+```
 ***
 
 ### :star: Acknowledgement :star:
