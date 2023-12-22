@@ -28,9 +28,8 @@ conda activate GSDD
 pip install -r requirements.txt
 ```
 ### :wrench: Usage 
-Pretrained models can be downloaded [here]().</br>
-Distilled samples can be downloaded [here]().
-#### Demo \& Train \& Test
+Pretrained models [Google Drive]()  &ensp; Distilled samples [Google Drive]()
+#### Train \& Test
 ```
 TO BE CONTINUED
 ```
