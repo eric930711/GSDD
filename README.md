@@ -22,16 +22,25 @@ torchvision   0.9.1+cu111
 ### :hammer_and_wrench: Environment 
 
 ```
+# git clone repository
+
+git clone https://github.com/eric930711/GSDD.git
+cd GSDD
+
+# create conda environment and activate
+
 conda create -n GSDD python=3.9
 conda activate GSDD
 
+# install requirement
+ 
 pip install -r requirements.txt
 ```
 ### :wrench: Usage 
 Pretrained models [Google Drive]()  &ensp; Distilled samples [Google Drive]()
-#### Train \& Test
+#### Training \& Inference
 ```
-TO BE CONTINUED
+COMING SOON...
 ```
 ***
 ### :eyes: Quick View 
@@ -111,13 +120,18 @@ task. Unlike previous coreset selection methods which select a few typical examp
 
 ***
 ### :book: Citation
-#### BibTeX
+**Please cite us if our work is useful for your research. Thanks a lot!** :heart:
 ```
 
 ```
 ***
+### :star: License
 
-### :star: Acknowledgement :star:
+This project is released under the [Apache 2.0 license](https://github.com/tencent-ailab/Frequency_Aug_VAE_MoESR/blob/main/LICENSE).
 
-**This work received strong support from [SSL](https://github.com/SSL92) and Tom Cai. We would like to thank them!** :handshake::handshake::handshake:
+***
+
+### :handshake: Acknowledgement
+
+**This work received strong support from [SSL](https://github.com/SSL92) and Tom Cai. We would like to thank them!**
   
