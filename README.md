@@ -2,7 +2,7 @@
 
 #### :computer: This is the official implementation of GSDD accepted by AAAI-2024.:smile: Thanks for watching! :heart: 
 
-**:page_facing_up: [Paper](https://github.com/eric930711/GSDD) :scroll: [Supp](https://www.google.com/intl/zh-CN/drive/features.html) :chart_with_upwards_trend: [Poster](https://github.com/eric930711/GSDD) :movie_camera: [Video](https://www.youtube.com/@RealAAAI)**
+**:page_facing_up: [Paper](https://github.com/eric930711/GSDD) :scroll: [Supp](https://drive.google.com/drive/folders/1itOEuv4aL24B15GgsQe1nVSCrVeZRbBw?usp=sharing) :chart_with_upwards_trend: [Poster](https://drive.google.com/drive/folders/1itOEuv4aL24B15GgsQe1nVSCrVeZRbBw?usp=sharing) :movie_camera: [Video](https://www.youtube.com/@RealAAAI)**
 
 ***
 ### :telescope: Overview 
